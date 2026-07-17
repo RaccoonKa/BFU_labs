@@ -1,0 +1,501 @@
+Description,Category
+Scanner reel misaligned,Hydraulic Failure
+Items getting stuck in scanner spool,Mechanical Failure
+Burnt capacitor detected in control board,Software Failure
+Robot arm movement inaccurate,Leak
+Calibration lost after system reboot,Leak
+Software controller crashed during cycle,Leak
+Burnt capacitor detected in control board,Electrical Failure
+Cooling system not circulating coolant,Hydraulic Failure
+Items getting stuck in scanner spool,Leak
+Machine vibration increasing over time,Leak
+Temperature sensor not responding,Hydraulic Failure
+Machine vibration increasing over time,Software Failure
+Pressure valve releasing steam,Leak
+Motor overheating after long use,Sensor Failure
+Production line halted unexpectedly,Mechanical Failure
+Machine vibration increasing over time,Leak
+Burnt capacitor detected in control board,Calibration Issue
+Motor overheating after long use,Hydraulic Failure
+Robot arm movement inaccurate,Software Failure
+Burnt capacitor detected in control board,Mechanical Failure
+Hydraulic pressure dropping rapidly,Leak
+Pressure valve releasing steam,Hydraulic Failure
+Motor overheating after long use,Leak
+Scanner reel misaligned,Calibration Issue
+Cooling fan stopped during operation,Electrical Failure
+Electrical panel short circuit detected,Hydraulic Failure
+Calibration lost after system reboot,Leak
+Burnt capacitor detected in control board,Sensor Failure
+Machine vibration increasing over time,Overheating
+Pressure valve releasing steam,Sensor Failure
+Machine vibration increasing over time,Software Failure
+Conveyor belt dropping items,Software Failure
+Hydraulic pressure dropping rapidly,Software Failure
+Items getting stuck in scanner spool,Mechanical Failure
+Unexpected power shutdown during startup,Sensor Failure
+Control panel restarting randomly,Mechanical Failure
+Software controller crashed during cycle,Calibration Issue
+Machine vibration increasing over time,Calibration Issue
+Pressure valve releasing steam,Mechanical Failure
+Items getting stuck in scanner spool,Sensor Failure
+Machine vibration increasing over time,Sensor Failure
+Temperature sensor not responding,Mechanical Failure
+Production line halted unexpectedly,Hydraulic Failure
+Pressure valve releasing steam,Leak
+Motor overheating after long use,Hydraulic Failure
+Pressure valve releasing steam,Hydraulic Failure
+Cooling system not circulating coolant,Overheating
+Calibration lost after system reboot,Electrical Failure
+Control panel restarting randomly,Hydraulic Failure
+Control panel restarting randomly,Sensor Failure
+Software controller crashed during cycle,Sensor Failure
+Oil leak near main pump,Mechanical Failure
+Robot arm movement inaccurate,Leak
+Oil leak near main pump,Hydraulic Failure
+Control panel restarting randomly,Overheating
+Items getting stuck in scanner spool,Overheating
+Scanner reel misaligned,Hydraulic Failure
+Cooling fan stopped during operation,Leak
+Machine vibration increasing over time,Mechanical Failure
+Machine vibration increasing over time,Sensor Failure
+Cooling system not circulating coolant,Calibration Issue
+Items getting stuck in scanner spool,Overheating
+Machine vibration increasing over time,Electrical Failure
+Pressure valve releasing steam,Sensor Failure
+Loud rattling noise from assembler piston,Electrical Failure
+Loud rattling noise from assembler piston,Electrical Failure
+Hydraulic pressure dropping rapidly,Sensor Failure
+Software controller crashed during cycle,Software Failure
+Hydraulic pressure dropping rapidly,Software Failure
+Loud rattling noise from assembler piston,Overheating
+Cooling fan stopped during operation,Software Failure
+Burnt capacitor detected in control board,Hydraulic Failure
+Software controller crashed during cycle,Sensor Failure
+Items getting stuck in scanner spool,Mechanical Failure
+Machine vibration increasing over time,Calibration Issue
+Unexpected power shutdown during startup,Calibration Issue
+Pressure valve releasing steam,Leak
+Temperature sensor not responding,Leak
+Software controller crashed during cycle,Electrical Failure
+Loud rattling noise from assembler piston,Mechanical Failure
+Oil leak near main pump,Mechanical Failure
+Software controller crashed during cycle,Electrical Failure
+Software controller crashed during cycle,Software Failure
+Pressure valve releasing steam,Calibration Issue
+Production line halted unexpectedly,Hydraulic Failure
+Unexpected power shutdown during startup,Software Failure
+Conveyor belt dropping items,Calibration Issue
+Pressure valve releasing steam,Hydraulic Failure
+Cooling system not circulating coolant,Leak
+Robot arm movement inaccurate,Mechanical Failure
+Burnt capacitor detected in control board,Leak
+Loud rattling noise from assembler piston,Overheating
+Production line halted unexpectedly,Overheating
+Electrical panel short circuit detected,Electrical Failure
+Robot arm movement inaccurate,Hydraulic Failure
+Machine vibration increasing over time,Hydraulic Failure
+Pressure valve releasing steam,Electrical Failure
+Robot arm movement inaccurate,Calibration Issue
+Temperature sensor not responding,Sensor Failure
+Calibration lost after system reboot,Sensor Failure
+Machine vibration increasing over time,Hydraulic Failure
+Cooling fan stopped during operation,Hydraulic Failure
+Motor overheating after long use,Calibration Issue
+Pressure valve releasing steam,Leak
+Motor overheating after long use,Leak
+Robot arm movement inaccurate,Leak
+Cooling system not circulating coolant,Sensor Failure
+Hydraulic pressure dropping rapidly,Hydraulic Failure
+Burnt capacitor detected in control board,Calibration Issue
+Robot arm movement inaccurate,Hydraulic Failure
+Control panel restarting randomly,Electrical Failure
+Software controller crashed during cycle,Mechanical Failure
+Machine vibration increasing over time,Hydraulic Failure
+Conveyor belt dropping items,Leak
+Items getting stuck in scanner spool,Sensor Failure
+Loud rattling noise from assembler piston,Leak
+Conveyor belt dropping items,Hydraulic Failure
+Calibration lost after system reboot,Leak
+Cooling fan stopped during operation,Overheating
+Pressure valve releasing steam,Electrical Failure
+Items getting stuck in scanner spool,Software Failure
+Control panel restarting randomly,Leak
+Control panel restarting randomly,Hydraulic Failure
+Electrical panel short circuit detected,Overheating
+Machine vibration increasing over time,Mechanical Failure
+Machine vibration increasing over time,Hydraulic Failure
+Loud rattling noise from assembler piston,Electrical Failure
+Unexpected power shutdown during startup,Electrical Failure
+Unexpected power shutdown during startup,Hydraulic Failure
+Calibration lost after system reboot,Calibration Issue
+Unexpected power shutdown during startup,Mechanical Failure
+Oil leak near main pump,Hydraulic Failure
+Motor overheating after long use,Software Failure
+Calibration lost after system reboot,Hydraulic Failure
+Motor overheating after long use,Mechanical Failure
+Calibration lost after system reboot,Electrical Failure
+Calibration lost after system reboot,Electrical Failure
+Cooling fan stopped during operation,Software Failure
+Motor overheating after long use,Software Failure
+Cooling fan stopped during operation,Overheating
+Unexpected power shutdown during startup,Overheating
+Robot arm movement inaccurate,Mechanical Failure
+Cooling system not circulating coolant,Leak
+Loud rattling noise from assembler piston,Mechanical Failure
+Hydraulic pressure dropping rapidly,Calibration Issue
+Robot arm movement inaccurate,Overheating
+Cooling system not circulating coolant,Calibration Issue
+Hydraulic pressure dropping rapidly,Sensor Failure
+Production line halted unexpectedly,Mechanical Failure
+Machine vibration increasing over time,Calibration Issue
+Control panel restarting randomly,Mechanical Failure
+Motor overheating after long use,Software Failure
+Pressure valve releasing steam,Leak
+Cooling system not circulating coolant,Electrical Failure
+Burnt capacitor detected in control board,Electrical Failure
+Cooling system not circulating coolant,Hydraulic Failure
+Loud rattling noise from assembler piston,Mechanical Failure
+Machine vibration increasing over time,Electrical Failure
+Machine vibration increasing over time,Leak
+Cooling system not circulating coolant,Hydraulic Failure
+Production line halted unexpectedly,Leak
+Loud rattling noise from assembler piston,Hydraulic Failure
+Temperature sensor not responding,Mechanical Failure
+Cooling fan stopped during operation,Sensor Failure
+Conveyor belt dropping items,Electrical Failure
+Software controller crashed during cycle,Calibration Issue
+Cooling fan stopped during operation,Leak
+Cooling system not circulating coolant,Hydraulic Failure
+Software controller crashed during cycle,Calibration Issue
+Unexpected power shutdown during startup,Software Failure
+Oil leak near main pump,Electrical Failure
+Control panel restarting randomly,Electrical Failure
+Conveyor belt dropping items,Calibration Issue
+Pressure valve releasing steam,Overheating
+Robot arm movement inaccurate,Sensor Failure
+Robot arm movement inaccurate,Software Failure
+Scanner reel misaligned,Leak
+Items getting stuck in scanner spool,Hydraulic Failure
+Unexpected power shutdown during startup,Calibration Issue
+Items getting stuck in scanner spool,Software Failure
+Scanner reel misaligned,Electrical Failure
+Loud rattling noise from assembler piston,Hydraulic Failure
+Loud rattling noise from assembler piston,Mechanical Failure
+Motor overheating after long use,Software Failure
+Burnt capacitor detected in control board,Overheating
+Pressure valve releasing steam,Sensor Failure
+Cooling fan stopped during operation,Overheating
+Hydraulic pressure dropping rapidly,Hydraulic Failure
+Production line halted unexpectedly,Hydraulic Failure
+Control panel restarting randomly,Mechanical Failure
+Control panel restarting randomly,Hydraulic Failure
+Production line halted unexpectedly,Calibration Issue
+Loud rattling noise from assembler piston,Leak
+Pressure valve releasing steam,Leak
+Calibration lost after system reboot,Sensor Failure
+Electrical panel short circuit detected,Leak
+Machine vibration increasing over time,Electrical Failure
+Scanner reel misaligned,Software Failure
+Control panel restarting randomly,Overheating
+Oil leak near main pump,Sensor Failure
+Motor overheating after long use,Mechanical Failure
+Hydraulic pressure dropping rapidly,Mechanical Failure
+Calibration lost after system reboot,Electrical Failure
+Machine vibration increasing over time,Software Failure
+Temperature sensor not responding,Calibration Issue
+Items getting stuck in scanner spool,Overheating
+Robot arm movement inaccurate,Sensor Failure
+Robot arm movement inaccurate,Electrical Failure
+Burnt capacitor detected in control board,Leak
+Machine vibration increasing over time,Sensor Failure
+Pressure valve releasing steam,Calibration Issue
+Calibration lost after system reboot,Hydraulic Failure
+Electrical panel short circuit detected,Mechanical Failure
+Control panel restarting randomly,Overheating
+Calibration lost after system reboot,Software Failure
+Cooling fan stopped during operation,Mechanical Failure
+Calibration lost after system reboot,Leak
+Calibration lost after system reboot,Mechanical Failure
+Machine vibration increasing over time,Electrical Failure
+Temperature sensor not responding,Hydraulic Failure
+Robot arm movement inaccurate,Software Failure
+Cooling system not circulating coolant,Electrical Failure
+Control panel restarting randomly,Calibration Issue
+Motor overheating after long use,Calibration Issue
+Electrical panel short circuit detected,Leak
+Control panel restarting randomly,Calibration Issue
+Hydraulic pressure dropping rapidly,Sensor Failure
+Temperature sensor not responding,Software Failure
+Electrical panel short circuit detected,Electrical Failure
+Items getting stuck in scanner spool,Calibration Issue
+Robot arm movement inaccurate,Software Failure
+Robot arm movement inaccurate,Sensor Failure
+Motor overheating after long use,Hydraulic Failure
+Motor overheating after long use,Sensor Failure
+Control panel restarting randomly,Leak
+Motor overheating after long use,Hydraulic Failure
+Loud rattling noise from assembler piston,Sensor Failure
+Temperature sensor not responding,Leak
+Burnt capacitor detected in control board,Electrical Failure
+Cooling system not circulating coolant,Mechanical Failure
+Hydraulic pressure dropping rapidly,Mechanical Failure
+Hydraulic pressure dropping rapidly,Mechanical Failure
+Loud rattling noise from assembler piston,Calibration Issue
+Oil leak near main pump,Calibration Issue
+Temperature sensor not responding,Hydraulic Failure
+Items getting stuck in scanner spool,Overheating
+Cooling system not circulating coolant,Overheating
+Cooling system not circulating coolant,Overheating
+Oil leak near main pump,Software Failure
+Motor overheating after long use,Leak
+Items getting stuck in scanner spool,Software Failure
+Robot arm movement inaccurate,Software Failure
+Control panel restarting randomly,Electrical Failure
+Electrical panel short circuit detected,Electrical Failure
+Software controller crashed during cycle,Mechanical Failure
+Hydraulic pressure dropping rapidly,Leak
+Unexpected power shutdown during startup,Mechanical Failure
+Robot arm movement inaccurate,Calibration Issue
+Machine vibration increasing over time,Calibration Issue
+Temperature sensor not responding,Leak
+Calibration lost after system reboot,Overheating
+Oil leak near main pump,Software Failure
+Machine vibration increasing over time,Leak
+Control panel restarting randomly,Software Failure
+Electrical panel short circuit detected,Calibration Issue
+Burnt capacitor detected in control board,Hydraulic Failure
+Conveyor belt dropping items,Overheating
+Temperature sensor not responding,Electrical Failure
+Pressure valve releasing steam,Sensor Failure
+Pressure valve releasing steam,Software Failure
+Cooling fan stopped during operation,Overheating
+Electrical panel short circuit detected,Sensor Failure
+Machine vibration increasing over time,Overheating
+Production line halted unexpectedly,Hydraulic Failure
+Oil leak near main pump,Overheating
+Burnt capacitor detected in control board,Mechanical Failure
+Scanner reel misaligned,Calibration Issue
+Machine vibration increasing over time,Mechanical Failure
+Conveyor belt dropping items,Hydraulic Failure
+Robot arm movement inaccurate,Hydraulic Failure
+Items getting stuck in scanner spool,Electrical Failure
+Motor overheating after long use,Sensor Failure
+Conveyor belt dropping items,Overheating
+Software controller crashed during cycle,Hydraulic Failure
+Electrical panel short circuit detected,Sensor Failure
+Hydraulic pressure dropping rapidly,Electrical Failure
+Cooling system not circulating coolant,Electrical Failure
+Calibration lost after system reboot,Overheating
+Pressure valve releasing steam,Electrical Failure
+Burnt capacitor detected in control board,Overheating
+Software controller crashed during cycle,Overheating
+Items getting stuck in scanner spool,Mechanical Failure
+Loud rattling noise from assembler piston,Calibration Issue
+Oil leak near main pump,Hydraulic Failure
+Burnt capacitor detected in control board,Calibration Issue
+Hydraulic pressure dropping rapidly,Sensor Failure
+Temperature sensor not responding,Calibration Issue
+Oil leak near main pump,Sensor Failure
+Control panel restarting randomly,Sensor Failure
+Machine vibration increasing over time,Leak
+Control panel restarting randomly,Electrical Failure
+Hydraulic pressure dropping rapidly,Electrical Failure
+Loud rattling noise from assembler piston,Hydraulic Failure
+Production line halted unexpectedly,Software Failure
+Items getting stuck in scanner spool,Leak
+Pressure valve releasing steam,Software Failure
+Burnt capacitor detected in control board,Hydraulic Failure
+Motor overheating after long use,Leak
+Temperature sensor not responding,Calibration Issue
+Oil leak near main pump,Leak
+Pressure valve releasing steam,Leak
+Temperature sensor not responding,Leak
+Pressure valve releasing steam,Software Failure
+Oil leak near main pump,Hydraulic Failure
+Production line halted unexpectedly,Mechanical Failure
+Hydraulic pressure dropping rapidly,Mechanical Failure
+Unexpected power shutdown during startup,Overheating
+Calibration lost after system reboot,Mechanical Failure
+Temperature sensor not responding,Sensor Failure
+Conveyor belt dropping items,Mechanical Failure
+Burnt capacitor detected in control board,Calibration Issue
+Software controller crashed during cycle,Leak
+Software controller crashed during cycle,Sensor Failure
+Calibration lost after system reboot,Software Failure
+Temperature sensor not responding,Leak
+Cooling fan stopped during operation,Sensor Failure
+Hydraulic pressure dropping rapidly,Overheating
+Oil leak near main pump,Calibration Issue
+Cooling system not circulating coolant,Calibration Issue
+Hydraulic pressure dropping rapidly,Calibration Issue
+Calibration lost after system reboot,Sensor Failure
+Loud rattling noise from assembler piston,Mechanical Failure
+Burnt capacitor detected in control board,Hydraulic Failure
+Control panel restarting randomly,Calibration Issue
+Cooling system not circulating coolant,Hydraulic Failure
+Temperature sensor not responding,Calibration Issue
+Conveyor belt dropping items,Sensor Failure
+Cooling fan stopped during operation,Mechanical Failure
+Pressure valve releasing steam,Mechanical Failure
+Items getting stuck in scanner spool,Leak
+Production line halted unexpectedly,Software Failure
+Unexpected power shutdown during startup,Calibration Issue
+Software controller crashed during cycle,Electrical Failure
+Hydraulic pressure dropping rapidly,Sensor Failure
+Hydraulic pressure dropping rapidly,Overheating
+Control panel restarting randomly,Electrical Failure
+Pressure valve releasing steam,Sensor Failure
+Loud rattling noise from assembler piston,Mechanical Failure
+Pressure valve releasing steam,Leak
+Oil leak near main pump,Calibration Issue
+Loud rattling noise from assembler piston,Electrical Failure
+Cooling fan stopped during operation,Hydraulic Failure
+Cooling fan stopped during operation,Overheating
+Hydraulic pressure dropping rapidly,Sensor Failure
+Electrical panel short circuit detected,Calibration Issue
+Burnt capacitor detected in control board,Mechanical Failure
+Pressure valve releasing steam,Software Failure
+Oil leak near main pump,Leak
+Cooling fan stopped during operation,Electrical Failure
+Hydraulic pressure dropping rapidly,Overheating
+Burnt capacitor detected in control board,Hydraulic Failure
+Calibration lost after system reboot,Mechanical Failure
+Calibration lost after system reboot,Calibration Issue
+Burnt capacitor detected in control board,Mechanical Failure
+Robot arm movement inaccurate,Sensor Failure
+Temperature sensor not responding,Leak
+Software controller crashed during cycle,Software Failure
+Production line halted unexpectedly,Leak
+Pressure valve releasing steam,Leak
+Machine vibration increasing over time,Electrical Failure
+Items getting stuck in scanner spool,Mechanical Failure
+Items getting stuck in scanner spool,Mechanical Failure
+Scanner reel misaligned,Overheating
+Control panel restarting randomly,Leak
+Conveyor belt dropping items,Software Failure
+Temperature sensor not responding,Calibration Issue
+Loud rattling noise from assembler piston,Software Failure
+Electrical panel short circuit detected,Electrical Failure
+Calibration lost after system reboot,Sensor Failure
+Oil leak near main pump,Hydraulic Failure
+Oil leak near main pump,Electrical Failure
+Calibration lost after system reboot,Calibration Issue
+Control panel restarting randomly,Overheating
+Scanner reel misaligned,Overheating
+Motor overheating after long use,Overheating
+Software controller crashed during cycle,Calibration Issue
+Items getting stuck in scanner spool,Mechanical Failure
+Temperature sensor not responding,Overheating
+Control panel restarting randomly,Leak
+Motor overheating after long use,Hydraulic Failure
+Production line halted unexpectedly,Leak
+Electrical panel short circuit detected,Overheating
+Items getting stuck in scanner spool,Leak
+Calibration lost after system reboot,Software Failure
+Robot arm movement inaccurate,Hydraulic Failure
+Unexpected power shutdown during startup,Electrical Failure
+Machine vibration increasing over time,Leak
+Loud rattling noise from assembler piston,Overheating
+Cooling fan stopped during operation,Software Failure
+Software controller crashed during cycle,Electrical Failure
+Conveyor belt dropping items,Calibration Issue
+Burnt capacitor detected in control board,Electrical Failure
+Scanner reel misaligned,Leak
+Software controller crashed during cycle,Calibration Issue
+Loud rattling noise from assembler piston,Electrical Failure
+Scanner reel misaligned,Hydraulic Failure
+Oil leak near main pump,Overheating
+Pressure valve releasing steam,Calibration Issue
+Calibration lost after system reboot,Electrical Failure
+Motor overheating after long use,Calibration Issue
+Calibration lost after system reboot,Software Failure
+Cooling system not circulating coolant,Hydraulic Failure
+Electrical panel short circuit detected,Calibration Issue
+Software controller crashed during cycle,Overheating
+Hydraulic pressure dropping rapidly,Electrical Failure
+Machine vibration increasing over time,Mechanical Failure
+Temperature sensor not responding,Mechanical Failure
+Cooling system not circulating coolant,Calibration Issue
+Burnt capacitor detected in control board,Software Failure
+Software controller crashed during cycle,Calibration Issue
+Burnt capacitor detected in control board,Leak
+Cooling fan stopped during operation,Sensor Failure
+Control panel restarting randomly,Leak
+Oil leak near main pump,Overheating
+Machine vibration increasing over time,Software Failure
+Loud rattling noise from assembler piston,Software Failure
+Robot arm movement inaccurate,Software Failure
+Control panel restarting randomly,Hydraulic Failure
+Items getting stuck in scanner spool,Sensor Failure
+Production line halted unexpectedly,Sensor Failure
+Electrical panel short circuit detected,Leak
+Electrical panel short circuit detected,Mechanical Failure
+Unexpected power shutdown during startup,Calibration Issue
+Hydraulic pressure dropping rapidly,Calibration Issue
+Electrical panel short circuit detected,Electrical Failure
+Cooling system not circulating coolant,Leak
+Production line halted unexpectedly,Overheating
+Cooling fan stopped during operation,Hydraulic Failure
+Oil leak near main pump,Leak
+Loud rattling noise from assembler piston,Electrical Failure
+Temperature sensor not responding,Sensor Failure
+Pressure valve releasing steam,Calibration Issue
+Robot arm movement inaccurate,Sensor Failure
+Cooling system not circulating coolant,Leak
+Pressure valve releasing steam,Mechanical Failure
+Hydraulic pressure dropping rapidly,Mechanical Failure
+Pressure valve releasing steam,Electrical Failure
+Cooling fan stopped during operation,Software Failure
+Temperature sensor not responding,Software Failure
+Software controller crashed during cycle,Overheating
+Machine vibration increasing over time,Sensor Failure
+Software controller crashed during cycle,Sensor Failure
+Scanner reel misaligned,Software Failure
+Hydraulic pressure dropping rapidly,Mechanical Failure
+Burnt capacitor detected in control board,Overheating
+Production line halted unexpectedly,Overheating
+Cooling fan stopped during operation,Leak
+Conveyor belt dropping items,Mechanical Failure
+Robot arm movement inaccurate,Software Failure
+Machine vibration increasing over time,Leak
+Scanner reel misaligned,Mechanical Failure
+Temperature sensor not responding,Leak
+Scanner reel misaligned,Overheating
+Conveyor belt dropping items,Calibration Issue
+Software controller crashed during cycle,Sensor Failure
+Loud rattling noise from assembler piston,Software Failure
+Burnt capacitor detected in control board,Calibration Issue
+Loud rattling noise from assembler piston,Mechanical Failure
+Control panel restarting randomly,Hydraulic Failure
+Pressure valve releasing steam,Overheating
+Cooling fan stopped during operation,Electrical Failure
+Pressure valve releasing steam,Mechanical Failure
+Motor overheating after long use,Hydraulic Failure
+Temperature sensor not responding,Calibration Issue
+Oil leak near main pump,Mechanical Failure
+Production line halted unexpectedly,Mechanical Failure
+Machine vibration increasing over time,Overheating
+Unexpected power shutdown during startup,Hydraulic Failure
+Burnt capacitor detected in control board,Leak
+Cooling fan stopped during operation,Electrical Failure
+Electrical panel short circuit detected,Calibration Issue
+Temperature sensor not responding,Electrical Failure
+Conveyor belt dropping items,Mechanical Failure
+Items getting stuck in scanner spool,Leak
+Cooling system not circulating coolant,Sensor Failure
+Unexpected power shutdown during startup,Sensor Failure
+Loud rattling noise from assembler piston,Sensor Failure
+Cooling system not circulating coolant,Calibration Issue
+Items getting stuck in scanner spool,Software Failure
+Hydraulic pressure dropping rapidly,Leak
+Items getting stuck in scanner spool,Mechanical Failure
+Pressure valve releasing steam,Overheating
+Conveyor belt dropping items,Sensor Failure
+Control panel restarting randomly,Sensor Failure
+Motor overheating after long use,Overheating
+Loud rattling noise from assembler piston,Calibration Issue
+Machine vibration increasing over time,Sensor Failure
+Items getting stuck in scanner spool,Overheating
+Pressure valve releasing steam,Calibration Issue
+Control panel restarting randomly,Hydraulic Failure
