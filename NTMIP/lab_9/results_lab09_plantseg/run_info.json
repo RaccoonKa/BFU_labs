@@ -1,0 +1,54 @@
+{
+  "cls": {
+    "best_epoch": 14,
+    "best_val": 0.6119,
+    "seconds": 4.1,
+    "seconds_features": 3.0,
+    "params": 11180103
+  },
+  "seg": {
+    "best_epoch": 14,
+    "best_val": 0.6506,
+    "epoch_seconds": [
+      11.1,
+      10.7,
+      10.8,
+      10.8,
+      10.9,
+      11.2,
+      11.4,
+      11.5,
+      11.7,
+      12.0,
+      12.1,
+      12.3,
+      12.3,
+      12.5,
+      12.6
+    ],
+    "seconds": 174.0,
+    "inference_ms_per_image": 2.7,
+    "params": 3218308
+  },
+  "det": {
+    "best_epoch": 5,
+    "best_val": 0.1777,
+    "epoch_seconds": [
+      18.4,
+      15.8,
+      15.7,
+      15.4,
+      15.1,
+      14.7,
+      15.8,
+      28.2,
+      23.8,
+      23.5,
+      24.5,
+      16.1
+    ],
+    "seconds": 227.1,
+    "inference_ms_per_image": 11.2,
+    "params": 18930229
+  }
+}
