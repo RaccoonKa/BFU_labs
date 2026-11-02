@@ -18,6 +18,8 @@ The course is built around a practical understanding of how algorithms and data 
 
 ## Bonus: a poem
 
+<div align="center">
+
 Сдаю я код, склонив главу,<br>
 Преподаватель — светлый гений.<br>
 Молчит, кивает... Я молву<br>
@@ -28,6 +30,8 @@ The course is built around a practical understanding of how algorithms and data 
 И мысль в душе моей права:<br>
 «Сдано!» — и я иду с покоем.
 
-<div align="center">  
-  <img src="https://steamuserimages-a.akamaihd.net/ugc/992387515485396846/7011CD286DB49FCDC23BD1F01AD5DC21E16DF05C/?imw=512&amp;imh=341&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true" width="400" />  
+<br>
+
+<img src="https://steamuserimages-a.akamaihd.net/ugc/992387515485396846/7011CD286DB49FCDC23BD1F01AD5DC21E16DF05C/?imw=512&amp;imh=341&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true" width="400" />
+
 </div>
