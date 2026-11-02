@@ -13,6 +13,7 @@ The table below describes all the disciplines presented in this archive.
 | [`BoTP`](./BoTP) | Basics of text processing | Tasks related to text data parsing, analysis, and processing. |
 | [`Discrete-Mathematics`](./Discrete-Mathematics) | Discrete mathematics | Solving problems in graph theory, logic, etc. |
 | [`MSPR`](./MSPR) | Sound recognition | Laboratory work on recognition and analysis of audio signals. |
+| [`NTMIP`](./NTMIP) | Neural network methods for image processing | Laboratory work on neural network methods for image processing |
 | [`Numerical-Methods`](./Numerical-Methods) | Numerical methods | Numerical solution of equations, interpolation, approximation. |
 | [`OS_CN`](./OS_CN) | OS and Computer Networks | System programming and network protocols. |
 | [`Python_labs`](./Python_labs) | Programming in Python | General tasks and exercises in Python. |
