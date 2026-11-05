@@ -14,6 +14,7 @@ The table below describes all the disciplines presented in this archive.
 | [`Discrete-Mathematics`](./Discrete-Mathematics) | Discrete mathematics | Solving problems in graph theory, logic, etc. |
 | [`ML`](./ML) | deep machine learning | Laboratory work on deep machine learning. |
 | [`MSPR`](./MSPR) | Sound recognition | Laboratory work on recognition and analysis of audio signals. |
+| [`Math_Modeling`](./Math_Modeling) | mathematical and computer modeling | Laboratory work on mathematical and computer modeling. |
 | [`NTMIP`](./NTMIP) | Neural network methods for image processing | Laboratory work on neural network methods for image processing |
 | [`Numerical-Methods`](./Numerical-Methods) | Numerical methods | Numerical solution of equations, interpolation, approximation. |
 | [`OS_CN`](./OS_CN) | OS and Computer Networks | System programming and network protocols. |
