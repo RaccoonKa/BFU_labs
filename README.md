@@ -12,6 +12,7 @@ The table below describes all the disciplines presented in this archive.
 | [`AI-labs`](./AI-labs) | Artificial intelligence | Laboratory work on AI and ML topics. |
 | [`BoTP`](./BoTP) | Basics of text processing | Tasks related to text data parsing, analysis, and processing. |
 | [`Discrete-Mathematics`](./Discrete-Mathematics) | Discrete mathematics | Solving problems in graph theory, logic, etc. |
+| [`ML`](./ML) | deep machine learning | Laboratory work on deep machine learning. |
 | [`MSPR`](./MSPR) | Sound recognition | Laboratory work on recognition and analysis of audio signals. |
 | [`NTMIP`](./NTMIP) | Neural network methods for image processing | Laboratory work on neural network methods for image processing |
 | [`Numerical-Methods`](./Numerical-Methods) | Numerical methods | Numerical solution of equations, interpolation, approximation. |
